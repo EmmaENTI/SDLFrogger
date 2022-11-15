@@ -1,0 +1,9 @@
+﻿  MainMenuScene.cpp
+C:\Users\EmmaPolanco\Desktop\sdleduard\SDL\source\MainMenuScene.cpp(6,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\EmmaPolanco\Desktop\sdleduard\SDL\source\MainMenuScene.cpp(34,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SDL.vcxproj -> C:\Users\EmmaPolanco\Desktop\sdleduard\SDL\binaries\x64Debug\SDL.exe
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
